@@ -6,7 +6,7 @@ setup(
     keywords='pipettes',
     description='a library for piptest Developer',
     license='MIT License',
-    url='https://github.com/wxnacy/wwx',
+    url='https://github.com/xiaoyaoamiao/pptest.git',
     author='bbb',
     author_email='miao2005xu@163.com',
     packages=find_packages(),
